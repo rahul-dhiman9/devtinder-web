@@ -52,7 +52,7 @@ if(res){
     );
   }
   return (
-    <div className="text-center">
+    <div className="text-center m-4 pb-28">
       <h1 className="text-3xl font-bold my-10">Requests</h1>
 
       {requests.map((request) => {
