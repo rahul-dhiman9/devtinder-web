@@ -105,7 +105,7 @@ const Premium = () => {
             <li>- Chat with other people on the app</li>
             <li>- No limit on connection requests per day</li>
             <li>- Blue tick</li>
-            <li>- 1 year duration</li>
+            <li>- 1 year duration</li> 
           </ul>
 
           {canBuyGold ? (
